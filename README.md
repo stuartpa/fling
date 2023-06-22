@@ -1,4 +1,4 @@
-# Azure Developer CLI
+# Fling CLI
 
 Latest builds:
 
